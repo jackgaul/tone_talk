@@ -16,6 +16,16 @@ description:
 
 Users cannot see this post because it is in draft.
 
+Photo Examples
+
+these are in public/assets
+
+![Political Compass](/assets/political_compass.png)
+
+<div>
+  <img src="/assets/political_compass.png" class="sm:w-1/2 mx-auto" alt="test">
+</div>
+
 ## Motivation
 
 rec 1
