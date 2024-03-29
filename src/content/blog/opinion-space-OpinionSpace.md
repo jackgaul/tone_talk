@@ -15,7 +15,7 @@ description: General description of Opinion Spaces to lay the foundation for fur
 
 One of my interests involves the dynamics of human’s opinions. How they change over time, how we can use mathematical objects/concepts to approximate them, and how these dynamics will play out as LLMs and Generative AI in general create the majority of content online. Though I havent heard a term yet that describes this area of study, I have come across the phrase Opinion Dynamics which I will use.
 
-In order to even start talking about the application of LLMs in the information networks were we interact and their affects on the people in the network, I need to define a representation of a humans Opinion
+In order to even start talking about the application of LLMs in the information networks were we interact and their affects on the people in the network, I need to define a representation of a humans Opinion. This representation must live in some mathematical struture. This post is an attempt to describe such a structure.
 
 While trying to formally write about a system that can manipulate/translate a points position in Opinion Space, I really try to consider the generalization of such a system. This severely complicates a solution and requires the introduction of new conceptions to grapple with this hypothetical system and the space in which it acts.
 

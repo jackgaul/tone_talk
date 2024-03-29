@@ -1,12 +1,12 @@
 ---
 title: Opinion Space - Opinion State
 author: Jack Gaul
-pubDatetime: 2024-03-09T04:06:31Z
+pubDatetime: 2024-03-28T04:06:31Z
 slug: opinion-space-opinion-state
 featured: false
 draft: false
 tags:
-  - opinionspace
+  - opinion space
 description: Vector or embedding representation of opinion state in state space.
 ---
 
