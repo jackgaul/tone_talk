@@ -18,14 +18,11 @@ This process of choosing which framework to to use at each point in the problem 
 A Quick example of a framework comparison: Consider the situation where we might want to make bread. We enlist a chemist and a baker to attempt to solve this problem. Both frameworks of problem-solving are absolutely capable of making bread. However, the baker's problem-solving framework is fine-tuned to this problem and task. The chemist’s framework requires so much overhead and unnecessary pieces of information that are not absolutely required to be explicit in the bread-making process. Furthermore, obviously we would all want the baker's bread in the end as well.
 Consider these three facts.
 
-1. There exist distinct problem-solving frameworks that differ in assumptions, tools, language, ideas, and procedures.
-2. Given a Problem, a framework's ability to conceptualize the problem( both in the mind of the problem solver and in their ability to communicate it in language) and change the systems state to the desired solution can be “measured”.
-3. Different frameworks result in different levels of success.
+1. **There exist distinct problem-solving frameworks that differ in assumptions, tools, language, ideas, and procedures.**
+2. **Given a Problem, a framework's ability to conceptualize the problem( both in the mind of the problem solver and in their ability to communicate it in language) and change the systems state to the desired solution can be “measured”.**
+3. **Different frameworks result in different levels of success.**
+
    We can conclude that there exists a gradient of frameworks with respect to their problem-solving ability.
    In simple language: Some frameworks are better than others at some tasks.
    **Is there a “Best” framework for a task? Is there a best general framework for a task?**
    The selection process of a framework is quite interesting. Choosing a framework to use when solving a problem is itself a problem. I would propose that no problem-solving can exist outside of a framework. Therefore it seems there exists a set of frameworks, which I will call **meta-frameworks,** whose sole function is the selection of the best framework for a task.
-
-## Motivation
-
-rec 1

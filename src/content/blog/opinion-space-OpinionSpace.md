@@ -55,7 +55,11 @@ The O**bjective Opinion Space** can be talked about in a more precise way simply
 
 ### Structure
 
-Ive played with a few ideas for the actual structure of this space. The one that sticks out right now is some high dimensional manifold. This idea is useful because we can think of peoples Subjective Opinion Spaces as being charts. Meaning a Subjective Opinion Space is an open set of elements on the manifold projected into an open subset of n-dimensional Euclidean space. Small issue is that somewhere in this process a distortion occurs in the projection. The benefit of the Subjective Opinion Space being Euclidean is that we can describe locations and states as embedding vectors.
+Ive played with a few ideas for the actual structure of this space and have settled on two. The first one that sticks out is some high dimensional manifold. This idea is useful because we can think of peoples Subjective Opinion Spaces as being charts. Meaning a Subjective Opinion Space is an open set of elements on the manifold projected into an open subset of n-dimensional Euclidean space. Small issue is that somewhere in this process a distortion seems to occur in the projection. The benefit of the Subjective Opinion Space being Euclidean is that we can describe locations and states as embedding vectors. The other structure can be thought of as a graph, Opinion Graph, overlayed on top of the euclidean space enforcing a discreteness to the possible positions an intelligent system may occupy. In some circumstances, one might be “between” opinions (which i would say is a valid location sometimes. Liking two candy bars equally) but in general I believe opinion changes occur in a discrete way.
+
+<div>
+  <img src="/assets/graph_vectorspace.png" class="sm:w-1/2 mx-auto" alt="test">
+</div>
 
 ## Wrapup
 
