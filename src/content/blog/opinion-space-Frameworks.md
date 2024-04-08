@@ -24,5 +24,5 @@ Consider these three facts.
 
    We can conclude that there exists a gradient of frameworks with respect to their problem-solving ability.
    In simple language: Some frameworks are better than others at some tasks.
-   **Is there a “Best” framework for a task? Is there a best general framework for a task?**
+   **Is there a “Best” framework for a task? Is there a best general framework for all tasks?**
    The selection process of a framework is quite interesting. Choosing a framework to use when solving a problem is itself a problem. I would propose that no problem-solving can exist outside of a framework. Therefore it seems there exists a set of frameworks, which I will call **meta-frameworks,** whose sole function is the selection of the best framework for a task.
